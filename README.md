@@ -1,5 +1,8 @@
 # todo-list
 
+A simple Vue.js implementation of a list and its editing options
+
+
 ## Project setup
 ```
 yarn install
